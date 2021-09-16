@@ -1,0 +1,101 @@
+S/N,What's your Gender?,Do you have children currently in school?,How many children do you have in school?,Relationship to the child?,Type of institution,Age of the child,What class is your child?,What country do you currently reside in?,How often do you meet with the teachers at the school?,How often do you communicate with your child about the school?,To what extent are you aware of your child's activities at school?,What kind of application would you prefer for instant communication between you and your child's school?,Have you been introduced to the use of a school management software prior to this survey?,If answer to question above is Yes? What were the problems encountered while using the school management software?,Would you like to receive timely updates of your child's activities in school?
+1,Female,No,4,Aunty,Private,9-12,"Primary, Secondary",Egypt,Weekly or more,Weekly or more,Fully aware,mobile application,No,None,Yes
+2,Male,No,1,Father,Private,0-4,Kindergaton,Nigeria,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+3,Male,Yes,2,Father,Private,0-4,"Kindergaton, Nursery",Kenya,Once in a few months,Weekly or more,Quite aware,both,Yes,None,Yes
+4,Female,Yes,1,Aunty,Private,5-8,Primary,Ghana,Once in a few months,1 - 2 times a month,Quite aware,mobile application,Yes,User interface not friendly,Yes
+5,Male,No,2,Uncle,Public,13-17,Secondary,Nigeria,1 - 2 times a month,Weekly or more,Quite aware,both,No,None,Yes
+6,Male,Yes,4,Uncle,Private,"5-8, 9-12",Primary,Kenya,1 - 2 times a month,Weekly or more,Fully aware,both,No,None,Yes
+7,Female,Yes,1,Mother,Private,0-4,Nursery,Ghana,1 - 2 times a month,Weekly or more,Fully aware,both,Yes,Entering my email and the password,Yes
+8,Male,Yes,1,Uncle,Private,13-17,Secondary,Nigeria,Once in a few months,Weekly or more,Fully aware,both,Yes,No problems,Yes
+9,Female,Yes,2,Mother,Private,0-4,"Kindergaton, Nursery",Nigeria,Weekly or more,Weekly or more,Quite aware,both,No,None,Yes
+10,Female,Yes,3,Mother,Private,"5-8, 9-12",Primary,Nigeria,Weekly or more,Weekly or more,Fully aware,both,No,Network issues,Yes
+11,Male,Yes,2,Others,Private,"5-8, 9-12","Nursery, Primary",USA,Never,Once in a few months,Partly aware,mobile application,No,None,Yes
+12,Male,Yes,2,Father,Private,"5-8, 9-12",Primary,Ghana,1 - 2 times a month,1 - 2 times a month,Fully aware,both,No,None,Yes
+13,Male,Yes,2,Father,Public,9-12,Primary,Kenya,Once in a few months,Weekly or more,Quite aware,both,Yes,some programs not users friendly,Yes
+14,Female,Yes,1,Mother,Private,9-12,Primary,Nigeria,1 - 2 times a month,Weekly or more,Quite aware,mobile application,No,None,Yes
+15,Female,Yes,2,Aunty,Public,9-12,Primary,South Africa,Once in a few months,Weekly or more,Quite aware,both,No,None,Yes
+16,Male,Yes,2,Father,Private,18-23,Tertiary,Kenya,Once in a year,Once in a few months,Fully aware,both,No,None,Yes
+17,Male,Yes,2,Uncle,Private,"0-4, 5-8","Nursery, Primary",UK,Never,1 - 2 times a month,Quite aware,both,No,None,Yes
+18,Male,Yes,3,Father,Public,"9-12, 13-17","Primary, Secondary",South Africa,Once in a few months,Weekly or more,Partly aware,both,No,None,Yes
+19,Female,Yes,1,Mother,Private,9-12,Primary,South Africa,Once in a few months,Weekly or more,Fully aware,both,No,None,Yes
+20,Female,Yes,1,Mother,Private,5-8,Primary,South Africa,Once in a few months,1 - 2 times a month,Quite aware,mobile application,No,None,No
+21,Female,Yes,1,Mother,Public,0-4,Kindergaton,Canada,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+22,Female,Prefer not to say,2,Mother,Private,0-4,Kindergaton,USA,1 - 2 times a month,1 - 2 times a month,Fully aware,mobile application,No,None,Yes
+23,Male,No,0,Father,Private,0-4,Kindergaton,Nigeria,Never,Never,Quite aware,mobile application,No,None,Yes
+24,Female,Yes,4,Aunty,Public,"5-8, 9-12, 13-17","Primary, Secondary",South Africa,Once in a few months,Weekly or more,Fully aware,both,No,None,Yes
+25,Female,Yes,3,Mother,Private,"0-4, 5-8","Kindergaton, Primary",Nigeria,Daily,Weekly or more,Fully aware,both,Yes,None,Yes
+26,Male,Yes,5,Uncle,Private,2 - 12,"Kindergaton, Nursery, Primary",Nigeria,Never,Weekly or more,Fully aware,both,No,None,Yes
+27,Female,No,0,Aunty,Private,0-4,Nursery,Nigeria,1 - 2 times a month,Weekly or more,Quite aware,mobile application,No,None,Yes
+28,Male,Yes,1,Father,Public,0-4,Kindergaton,Nigeria,Weekly or more,Never,Fully aware,mobile application,No,None,Yes
+29,Male,Yes,1,Father,Public,18-23,Tertiary,Nigeria,Never,Weekly or more,Quite aware,both,No,None,Yes
+30,Female,Yes,1,Mother,Private,0-4,Kindergaton,South Africa,Once in a few months,1 - 2 times a month,Quite aware,both,No,None,Yes
+31,Female,Yes,1,Mother,Private,0-4,Kindergaton,Ghana,1 - 2 times a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+32,Male,Yes,4,Uncle,Private,"0-4, 5-8","Nursery, Primary",Nigeria,Few times in a month,Weekly or more,Fully aware,both,prefer not to say,None,Yes
+33,Female,Yes,2,Mother,Private,0-4,"Kindergarten, Nursery",Nigeria,Few times in a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+34,Female,No,0,Others,Public,0,Primary,Uk,Never,Never,Partly aware,mobile application,No,None,Yes
+35,Female,Yes,2,Mother,Private,0-4,Nursery,Nigeria,Weekly or more,Weekly or more,Fully aware,mobile application,No,None,Yes
+36,Male,Yes,2,Father,Private,"0-4, 5-8","Nursery, Primary",Nigeria,Few times in a month,Weekly or more,Partly aware,both,No,None,Yes
+37,Female,Yes,2,Mother,Private,"0-4, 5-8","Kindergarten, Primary",Nigeria,Once in a year,Weekly or more,Partly aware,both,No,None,Yes
+38,Female,Yes,1,Aunty,Private,13-17,Secondary,Nigeria,Once in a year,Weekly or more,Partly aware,mobile application,No,None,Yes
+39,Male,Yes,1,Father,Private,9-12,Primary,Kenya,Once in a year,Once in a few months,Fully aware,mobile application,No,None,Yes
+40,Female,No,1,Mother,Private,13-17,Tertiary,Nigeria,Never,Weekly or more,Quite aware,mobile application,No,None,Yes
+41,Female,No,1,Aunty,Private,5-8,Nursery,Nigeria,Never,Never,Partly aware,both,No,None,Yes
+42,Male,Yes,13,Uncle,Private,9-12,Primary,Nigeria,Few times in a month,1 - 2 times a month,Fully aware,both,No,None,Yes
+43,Female,Yes,1,Mother,Public,13-17,Tertiary,Nigeria,Few times in a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+44,Male,No,1,Uncle,Public,9-12,Primary,Kenya,Few times in a month,Once in a few months,Partly aware,both,No,None,Yes
+45,Female,Yes,2,Mother,Private,13-17,Tertiary,Kenya,Never,1 - 2 times a month,Partly aware,mobile application,No,None,Yes
+46,Female,Yes,3,Mother,Private,5-8,Primary,Nigeria,Few times in a month,Once in a few months,Quite aware,both,No,None,Yes
+47,Female,Yes,2,Mother,Private,5-8,Primary,Nigeria,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+48,Female,Yes,1,Mother,Public,13-17,Secondary,Kenya,Once in a year,1 - 2 times a month,Fully aware,mobile application,No,None,Yes
+49,Female,Yes,1,Mother,Private,5-8,Nursery,Kenya,Weekly or more,Weekly or more,Partly aware,mobile application,Yes,Poor connection,Yes
+50,Female,Yes,1,Mother,Public,13-17,Secondary,Kenya,Weekly or more,Weekly or more,Fully aware,both,prefer not to say,None,Yes
+51,Male,Yes,1,Uncle,Private,5-8,Primary,Nigeria,Few times in a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+52,Female,Yes,1,Mother,Private,0-4,Kindergarten,Nigeria,Weekly or more,Weekly or more,Partly aware,both,No,None,Yes
+53,Male,Yes,1,Father,Public,9-12,Primary,South Africa,Once in a year,Weekly or more,Quite aware,mobile application,Yes,Introduction,Yes
+54,Female,Yes,2,Aunty,Public,"5-8, 9-12","Primary, Secondary",Kenya,Few times in a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+55,Female,Yes,2,Mother,Public,0-4,Kindergarten,South Africa,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+56,Male,Yes,1,Father,Private,5-8,Primary,South Africa,Weekly or more,Weekly or more,Fully aware,both,Yes,No problem at the moment,Yes
+57,Female,Yes,4,Mother,Private,"5-8, 9-12, 13-17","Nursery, Primary",Kenya,Few times in a month,Weekly or more,Quite aware,both,No,Not applicable,Yes
+58,Male,Yes,2,Father,Public,13-17,Secondary,South Africa,Once in a year,Weekly or more,Fully aware,both,No,None,Prefer not to say
+59,Female,Yes,2,Mother,Private,5-8,Nursery,Nigeria,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+60,Female,Yes,2,Mother,Private,"0-4, 5-8","Nursery, Primary",Nigeria,Few times in a month,1 - 2 times a month,Fully aware,both,No,None,Yes
+61,Male,Yes,1,Uncle,Private,5-8,Primary,Kenya,Few times in a month,Weekly or more,Partly aware,mobile application,No,None,Yes
+62,Female,Yes,3,Mother,Private,0-4,"Kindergarten, Nursery",Nigeria,Once every week,Weekly or more,Fully aware,both,No,None,Yes
+63,Female,Yes,2,Mother,Private,0-4,Nursery,Nigeria,Once in a term,Weekly or more,Fully aware,mobile application,Yes,None,Yes
+64,Male,Yes,2,Uncle,Private,13-17,Tertiary,Nigeria,Few times in a month,Weekly or more,Fully aware,both,No,None,Yes
+65,Female,Prefer not to say,1,Others,Private,13-17,Tertiary,Nigeria,Never,Weekly or more,Partly aware,both,No,None,Yes
+66,Female,Yes,2,Mother,Private,"0-4, 5-8","Kindergarten, Nursery",Nigeria,Few times in a month,Weekly or more,Fully aware,both,No,None,Yes
+67,Female,Yes,3,Aunty,Private,"0-4, 5-8","Kindergarten, Primary",Nigeria,Never,Weekly or more,Partly aware,mobile application,No,None,Yes
+68,Female,Yes,1,Mother,Private,5-8,Primary,Nigeria,Few times in a month,1 - 2 times a month,Fully aware,both,No,None,Yes
+69,Male,Yes,1,Others,Private,13-17,Secondary,Nigeria,Few times in a month,Weekly or more,Partly aware,mobile application,No,None,No
+70,Female,Yes,2,Mother,Private,9-12,Primary,Kenya,Few times in a month,1 - 2 times a month,Partly aware,web application,Yes,Internet problems,Yes
+71,Male,Yes,4,Father,Public,"5-8, 13-17","Primary, Secondary",Nigeria,Few times in a month,Weekly or more,Quite aware,both,No,None,Yes
+72,Female,Yes,2,Mother,Private,13-17,"Secondary, Tertiary",Nigeria,Few times in a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+73,Male,Yes,4,Uncle,Private,9-12,Primary,Nigeria,Few times in a month,Weekly or more,Partly aware,both,Yes,Adequate information on activities of the child and the school program as well as proper interface between parents and school authorities.,Yes
+74,Male,Yes,2,Uncle,Private,13-17,Secondary,Nigeria,Few times in a month,Weekly or more,Fully aware,both,No,None,Yes
+75,Male,Yes,1,Guardian,Private,9-12,Primary,Nigeria,Few times in a month,Once in a few months,Quite aware,both,Yes,None,Yes
+76,Male,Yes,1,Father,Private,5-8,Primary,KENYA,Few times in a month,Weekly or more,Fully aware,web application,No,None,Yes
+77,Male,Yes,1,Father,Private,5-8,Primary,Kenya,Weekly or more,Weekly or more,Fully aware,mobile application,No,None,No
+78,Female,Yes,1,Mother,Private,5-8,Primary,Kenya,Few times in a month,Weekly or more,Partly aware,mobile application,No,None,Yes
+79,Female,Yes,3,Mother,Private,"0-4, 5-8","Nursery, Primary",Nigeria,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+80,Female,Yes,4,Mother,Private,9-12,Primary,Nigeria,Weekly or more,Weekly or more,Fully aware,mobile application,prefer not to say,None,Yes
+81,Female,Yes,3,Mother,Public,"9-12, 13-17","Primary, Secondary",KENYA,Every morning,Weekly or more,Quite aware,mobile application,Yes,Airtime and databundles insufficient,Yes
+82,Female,No,0,Others,Public,9-12,Primary,Kenya,When need arise,Weekly or more,Fully aware,mobile application,No,None,Yes
+83,Male,Yes,2,Father,Private,13-17,Secondary,Kenya,Few times in a month,1 - 2 times a month,Partly aware,mobile application,No,None,Yes
+84,Female,Yes,3,Mother,Public,13-17,"Secondary, Tertiary",Nigeria,Never,Weekly or more,Fully aware,both,No,None,Yes
+85,Female,No,1,Mother,Private,0-4,Kindergarten,Nigeria,Never,Never,Not aware,both,No,None,Prefer not to say
+86,Female,Yes,1,Mother,Private,0-4,Kindergarten,Nigeria,Weekly or more,Weekly or more,Fully aware,mobile application,No,None,Yes
+87,Female,Yes,1,Aunty,Public,0-4,Nursery,Kenya,Few times in a month,Weekly or more,Partly aware,both,prefer not to say,N/A,Yes
+88,Female,Yes,3,Mother,Public,13-17,"Primary, Secondary",Kenya,Few times in a month,1 - 2 times a month,Partly aware,mobile application,Yes,Airtime and databundles insufficient,Yes
+89,Male,Yes,2,Father,Private,5-8,Nursery,Kenya,Few times in a month,Weekly or more,Fully aware,mobile application,Yes,None,Yes
+90,Female,Yes,2,Mother,Private,"0-4, 5-8","Kindergarten, Primary",Nigeria,Few times in a month,Weekly or more,Fully aware,both,No,None,Yes
+91,Male,Yes,2,Father,Private,"5-8, 9-12",Primary,Kenya,Few times in a month,Weekly or more,Quite aware,mobile application,No,None,Yes
+92,Male,Yes,1,Father,Public,13-17,Secondary,Kenya,3,1 - 2 times a month,Quite aware,mobile application,No,None,Yes
+93,Female,Yes,2,Mother,Public,"5-8, 9-12",Primary,Kenya,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+94,Female,Yes,1,Mother,Private,13-17,Primary,Kenya,Weekly or more,Weekly or more,Partly aware,both,No,None,Yes
+95,Male,No,3,Others,Public,9-12,"Primary, Secondary",Kenya,Few times in a month,1 - 2 times a month,Partly aware,mobile application,No,None,Yes
+96,Female,No,0,Others,Public,9-12,Primary,Kenya,Whenever needed,Weekly or more,Fully aware,mobile application,No,None,Yes
+97,Female,Yes,4,Mother,Private,"9-12, 13-17","Primary, Secondary",Kenya,Few times in a month,Weekly or more,Fully aware,both,Yes,Slow in connection,Yes
+98,Female,Yes,2,Mother,Private,"0-4, 5-8","Nursery, Primary",Nigeria,Weekly or more,Weekly or more,Fully aware,both,No,None,Yes
+99,Female,Yes,4,Mother,Public,9-12,Primary,Kenya,Few times in a month,Weekly or more,Fully aware,mobile application,No,None,Yes
+100,Female,Yes,3,Aunty,Private,5-8,Primary,Nigeria,Few times in a month,1 - 2 times a month,Fully aware,both,No,None,Yes
